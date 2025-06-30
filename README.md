@@ -1,1 +1,1 @@
-# RISC-Processor
+# MIPS-Single-Cycle-Processor
